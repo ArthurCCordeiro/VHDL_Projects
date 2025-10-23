@@ -1,4 +1,15 @@
-# Structural Half Adder
+# VHDL_Projects
 
-## Description
-A simple Half Adder made on class, it works by the main file calling out other files with primitive gates already made.
+<details>
+<summary>Description</summary>
+Lab Assigments from Bachelor Degree in Computer Engineering. It includes all VHDL projects developed during classes
+</details>
+
+----
+
+<details>
+<summary>Made Using</summary>
+<b>Quartus Prime<b/>
+
+![Quartus](https://i.imgur.com/EGLjymI.png)
+</details>

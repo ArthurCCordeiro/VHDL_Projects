@@ -9,7 +9,7 @@ Lab Assigments from Bachelor Degree in Computer Engineering. It includes all VHD
 
 <details>
 <summary>Made Using</summary>
-*Quartus Prime*
+<b>Quartus Prime<b/>
 
 ![Quartus](https://i.imgur.com/EGLjymI.png)
 </details>
